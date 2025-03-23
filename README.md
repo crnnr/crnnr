@@ -1,4 +1,4 @@
-Currently burning out
+Currently Vibecoding
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=crnnr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
